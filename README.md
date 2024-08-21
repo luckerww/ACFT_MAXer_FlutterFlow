@@ -1,6 +1,8 @@
 # ACFT MAXer
 
-A new Flutter project.
+A Flutter based mobile app desgined for our soldier to make PT plans and to calculate ACFT scores! 
+
+Make for soldiers by soldiers
 
 ## Getting Started
 
