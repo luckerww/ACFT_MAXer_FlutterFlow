@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004407396530",
+    "project_id": "a-i-bedtime-stories-amb-f57iyc",
+    "storage_bucket": "a-i-bedtime-stories-amb-f57iyc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004407396530:android:dc27a58d6a90a16c8f91ab",
+        "android_client_info": {
+          "package_name": "com.OKITconsulting.acftmaxer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JCS32sdHZGphw06uZXXyQJ4ZHOvWreM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004407396530:android:f7cf07fea985f2188f91ab",
+        "android_client_info": {
+          "package_name": "com.OKITconsulting.bedtimestories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JCS32sdHZGphw06uZXXyQJ4ZHOvWreM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
