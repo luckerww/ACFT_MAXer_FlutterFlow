@@ -4,6 +4,8 @@ A Flutter based mobile app desgined for our soldier to make PT plans and to calc
 
 Make for soldiers by soldiers
 
+Avilable in App Store: https://apps.apple.com/us/app/acft-maxer/id6630365613
+
 ## Getting Started
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
