@@ -2,7 +2,7 @@
 
 A Flutter based mobile app desgined for our soldier to make PT plans and to calculate ACFT scores! 
 
-Make for soldiers by soldiers
+Make for our soldiers by our soldier.
 
 Avilable in App Store: https://apps.apple.com/us/app/acft-maxer/id6630365613
 
